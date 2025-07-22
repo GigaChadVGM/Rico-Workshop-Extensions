@@ -4,6 +4,10 @@
     {
       "name": "test extension",
       "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test.json"
+    },
+    {
+      "name": "test extension 2",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test2.json"
     }
   ]
 }
