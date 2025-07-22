@@ -17,7 +17,7 @@
         "hoverBgImage": "linear-gradient(to right, #000000, #1a1a1a)",
         "hoverColor": "#9ca3af",
         "color": "white",
-        "inverted": "false"
+        "inverted": false
       }
     },
     {
@@ -29,7 +29,7 @@
         "hoverBgImage": "linear-gradient(to right, #E87D0D, #FF9A35)",
         "hoverColor": "#9ca3af",
         "color": "black",
-        "inverted": "true"
+        "inverted": true
       }
     },
     {
@@ -41,7 +41,7 @@
         "hoverBgImage": "linear-gradient(to right, #FF0000, #FF4C4C)",
         "hoverColor": "#9ca3af",
         "color": "black",
-        "inverted": "true"
+        "inverted": true
       }
     }
   ]
