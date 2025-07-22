@@ -4,6 +4,14 @@
     {
       "name": "Blender",
       "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/blender.json"
+    },
+    {
+      "name": ".rbm exporter",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/rbm_exporter_brooen.json"
+    },
+    {
+      "name": ".rbm importer",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/rbm_exporter_brooen.json"
     }
   ]
 }

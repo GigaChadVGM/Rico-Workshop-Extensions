@@ -1,0 +1,24 @@
+{
+  "name": ".rbm exporter",
+  "username": "Brooen",
+  "desc": "Blender tool that converts models to Just Cause 3's RBM format",
+  "icon": {
+    "url": "Brooen",
+    "type": "github"
+  },
+  "releaseURL": "https://github.com/Brooen/RBM-Exporter/releases/latest",
+  "additionnalButtons": [
+    {
+      "name": "Source",
+      "siteURL": "https://github.com/Brooen/RBM-Exporter",
+      "iconURL": "https://img.icons8.com/ios-filled/250/FFFFFF/github.png",
+      "button-design": {
+        "nrmBgImage": "linear-gradient(to right, #2d2d2d, #000000)",
+        "hoverBgImage": "linear-gradient(to right, #000000, #1a1a1a)",
+        "hoverColor": "#9ca3af",
+        "color": "white",
+        "inverted": false
+      }
+    }
+  ]
+}
