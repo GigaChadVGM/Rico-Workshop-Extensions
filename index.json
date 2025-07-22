@@ -12,6 +12,10 @@
     {
       "name": ".rbm importer",
       "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/rbm_importer_brooen.json"
+    },
+    {
+      "name": "JC Model Renderer",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/jc_model_renderer_aaron_kirkham.json"
     }
   ]
 }

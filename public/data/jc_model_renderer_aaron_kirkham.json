@@ -1,0 +1,24 @@
+{
+  "name": "JC Model Renderer",
+  "username": "Aaron Kirkham",
+  "desc": "A full-featured app to explore Just Cause 3/4 files, allowing you to open, preview, and export various assets, including 3D models from the game.",
+  "icon": {
+    "url": "aaronkirkham",
+    "type": "github"
+  },
+  "releaseURL": "https://drive.google.com/file/d/1KwpYSJNOZ5iyor4e0RSxxBTBc4-d68fQ/view",
+  "additionnalButtons": [
+    {
+      "name": "Source (outdated)",
+      "siteURL": "https://github.com/aaronkirkham/jc-model-renderer",
+      "iconURL": "https://img.icons8.com/ios-filled/250/FFFFFF/github.png",
+      "button-design": {
+        "nrmBgImage": "linear-gradient(to right, #2d2d2d, #000000)",
+        "hoverBgImage": "linear-gradient(to right, #000000, #1a1a1a)",
+        "hoverColor": "#9ca3af",
+        "color": "white",
+        "inverted": false
+      }
+    }
+  ]
+}
