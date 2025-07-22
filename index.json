@@ -2,8 +2,8 @@
   "version": "1.0",
   "extensions": [
     {
-      "name": "Premier widget",
-      "url": "https://..."
+      "name": "test extension",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test.json"
     }
   ]
 }
