@@ -11,7 +11,7 @@
     {
       "name": "Source",
       "siteURL": "https://github.com/blender/blender",
-      "iconURL": "",
+      "iconURL": "https://img.icons8.com/ios-filled/250/FFFFFF/github.png",
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #2d2d2d, #000000)",
         "hoverBgImage": "linear-gradient(to right, #000000, #1a1a1a)",
@@ -21,7 +21,7 @@
     {
       "name": "Official site",
       "siteURL": "https://www.blender.org/features",
-      "iconURL": "",
+      "iconURL": "https://img.icons8.com/forma-thin/144/FFFFFF/blender-3d.png",
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #FF9A35, #E87D0D)",
         "hoverBgImage": "linear-gradient(to right, #E87D0D, #FF9A35)",
@@ -31,7 +31,7 @@
     {
       "name": "Showcase",
       "siteURL": "https://www.youtube.com/watch?v=gHBnw46GvGM",
-      "iconURL": "",
+      "iconURL": "https://img.icons8.com/ios-filled/250/FFFFFF/youtube-play.png",
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #FF4C4C, #FF0000)",
         "hoverBgImage": "linear-gradient(to right, #FF0000, #FF4C4C)",
