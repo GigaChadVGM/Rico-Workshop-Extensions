@@ -40,8 +40,8 @@
         "nrmBgImage": "linear-gradient(to right, #FF4C4C, #FF0000)",
         "hoverBgImage": "linear-gradient(to right, #FF0000, #FF4C4C)",
         "hoverColor": "#9ca3af",
-        "color": "black",
-        "inverted": true
+        "color": "white",
+        "inverted": false
       }
     }
   ]
