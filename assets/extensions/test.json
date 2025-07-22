@@ -4,7 +4,7 @@
     "username": "Blender",
     "desc": "a 3d modelling software",
     "icon": {
-      "url": "",
+      "url": "blender",
       "type": "github"
     },
     "releaseURL": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test.json",
