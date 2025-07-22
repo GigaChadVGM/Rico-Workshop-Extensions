@@ -15,7 +15,9 @@
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #2d2d2d, #000000)",
         "hoverBgImage": "linear-gradient(to right, #000000, #1a1a1a)",
-        "hoverColor": "#9ca3af"
+        "hoverColor": "#9ca3af",
+        "color": "white",
+        "inverted": "false"
       }
     },
     {
@@ -25,7 +27,9 @@
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #FF9A35, #E87D0D)",
         "hoverBgImage": "linear-gradient(to right, #E87D0D, #FF9A35)",
-        "hoverColor": "#9ca3af"
+        "hoverColor": "#9ca3af",
+        "color": "black",
+        "inverted": "true"
       }
     },
     {
@@ -35,7 +39,9 @@
       "button-design": {
         "nrmBgImage": "linear-gradient(to right, #FF4C4C, #FF0000)",
         "hoverBgImage": "linear-gradient(to right, #FF0000, #FF4C4C)",
-        "hoverColor": "#9ca3af"
+        "hoverColor": "#9ca3af",
+        "color": "black",
+        "inverted": "true"
       }
     }
   ]
