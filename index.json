@@ -2,12 +2,8 @@
   "version": "1.0",
   "extensions": [
     {
-      "name": "test extension",
-      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test.json"
-    },
-    {
-      "name": "test extension 2",
-      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/assets/extensions/test2.json"
+      "name": "Blender",
+      "url": "https://gigachadvgm.github.io/Rico-Workshop-Extensions/public/data/blender.json"
     }
   ]
 }
